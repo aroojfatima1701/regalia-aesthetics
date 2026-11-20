@@ -50,3 +50,8 @@ Built into the same app and wired to the website. Everything is saved in the bro
 - **Memberships:** plans, prices, perks and the featured plan.
 - **Clinics:** address, phone, opening hours (also used for booking slots), consultation fee, licensing line.
 - **Website content:** hero text, closing line and the hero slideshow (upload, caption, link, reorder, remove).
+
+
+---
+
+**Arooj Fatima** · Full-stack developer who designs · Portfolio: [aroojfatima-portfolio.netlify.app](https://aroojfatima-portfolio.netlify.app) · aroojfatimaofficial250@gmail.com
